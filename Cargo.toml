@@ -1,0 +1,8 @@
+
+[workspace]
+resolver = "2"
+members = [
+    "mussh-protocol",
+    "mussh-ui",
+    "users-gestion",
+]
